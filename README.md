@@ -11,6 +11,7 @@ The company (hypothetical) would like to be more efficient in their Free Data Of
 What are the different customer tiers, and what is the behavior of customers in each tier?
 
 # The Data  
+[Dataset](https://docs.google.com/spreadsheets/d/1-hdbDfajFyPHC8YYH_Yz8PciCRfLP4yF/edit#gid=1644338557)
 * Six months of customer data.  
 * Primary City represents the city where the customer resides.
 * Account Number represents the customer’s unique identification.
