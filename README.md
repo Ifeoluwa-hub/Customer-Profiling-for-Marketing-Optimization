@@ -8,26 +8,26 @@ They over the past 6 months offered different types of Free Internet Data to the
 The company (hypothetical) would like to be more efficient in their Free Data Offerings and has provided 6 months customer data for profiling and further analysis.
 
 # Problem Statement
-What are the different customier tiers, and what is the bahaviour of customers in each tier?
+What are the different customer tiers, and what is the behavior of customers in each tier?
 
-# The Data
-•	Six months of customer data.
-•	Primary City represents the city where the customer resides.
-•	Account Number represents the customer’s unique Identification.
-•	Customer Type indicates whether a customer is corporate or retail.
-•	Data Subscribed is the amount of Internet Data the customer purchases in a particular month.
-•	Data Bonus is the amount of Free Internet Data given to customers in a particular month.
-•	Bonus Used is the amount of Free Internet Data the customer uses in a particular month.
-•	YM represents the Months in the year for the transactions, covering six months.
+# The Data  
+* Six months of customer data.  
+* Primary City represents the city where the customer resides.
+* Account Number represents the customer’s unique identification.
+* Customer Type indicates whether a customer is corporate or retail.
+* Data Subscribed is the amount of Internet Data the customer purchases in a particular month.
+* Data Bonus is the amount of Free Internet Data given to customers in a particular month.
+* Bonus Used is the amount of Free Internet Data the customer uses in a particular month.
+* YM represents the months in the year for the transactions, covering six months.
 
 # Method
-• Understanding the business problem
-• Identifying the problem statement
-• Domain Knowledge Acquisition
-• Data Cleaning and Transformation
-• Exploratory Data Analysis
-• Building Dashboard with Microsoft PowerBI
-
+* Understanding the business problem
+* Identifying the problem statement
+* Domain Knowledge Acquisition
+* Data Cleaning and Transformation
+* Exploratory Data Analysis
+* Building Dashboard with Microsoft PowerBI
+  
 # Analysis and Visualization
 ![Customer Profiling Report] (https://app.powerbi.com/view?r=eyJrIjoiYzAyMGFhNWYtNzdmZC00ODY1LWFjMTktNzBiMzQxZjgxN2ZmIiwidCI6ImI2YzRkMzlmLWMwODYtNDEyOC05NmE1LTA0NDZkNzVmMTdjYSJ9)
 
