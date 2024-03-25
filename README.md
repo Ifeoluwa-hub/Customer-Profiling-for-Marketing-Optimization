@@ -30,7 +30,6 @@ What are the different customer tiers, and what is the behavior of customers in 
   
 # Analysis and Visualization
 [Customer Profiling Report](https://app.powerbi.com/view?r=eyJrIjoiYzAyMGFhNWYtNzdmZC00ODY1LWFjMTktNzBiMzQxZjgxN2ZmIiwidCI6ImI2YzRkMzlmLWMwODYtNDEyOC05NmE1LTA0NDZkNzVmMTdjYSJ9)
-[Customer Profiling Report] (https://app.powerbi.com/view?r=eyJrIjoiYzAyMGFhNWYtNzdmZC00ODY1LWFjMTktNzBiMzQxZjgxN2ZmIiwidCI6ImI2YzRkMzlmLWMwODYtNDEyOC05NmE1LTA0NDZkNzVmMTdjYSJ9).
 
 
 
